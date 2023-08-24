@@ -16,4 +16,3 @@ select <- function(x, var){
   x[c(var)]
   
 }
-
